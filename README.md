@@ -9,3 +9,5 @@ The game continues until the player correctly guesses the number. At that point,
 The "guess the number" game can also be expanded to include a scoring system. The player can earn points for guessing the number correctly within a certain number of attempts, and lose points for taking too many guesses.
 
 Overall, the "guess the number" game is a fun and simple way to engage players and test their guessing skills. With the backend coded in C language, the game is fast and efficient, providing a seamless experience for the player.
+
+Copy souce code and run it in your fav. code station!
